@@ -1,3 +1,4 @@
-demo_file.csv
+*.csv
 *DS_Store
 *.xlsx
+*.txt
