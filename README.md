@@ -34,6 +34,17 @@ cd <repository_directory>
 jupyter notebook Job_Crawler.ipynb
 ```
 
+1. Execute the cells in the notebook.
+
+Alternatively, you can run the Jupyter Notebook directly in Google Colab by clicking the following link:
+
+[Open in Google Colab](https://colab.research.google.com/github/HenrikPaales/JobCrawler/blob/main/Job_Crawler.ipynb)
+
+The script will fetch job listings based on the provided parameters, and you can execute the cells in Colab just like in a local Jupyter environment.
+```
+
+Users can simply click the "Open in Google Colab" link to access and run the notebook in Google Colab.
+
 The script will fetch job listings based on the provided parameters and store the results in a CSV file named "JobList.csv".
 
 ## Configuration
