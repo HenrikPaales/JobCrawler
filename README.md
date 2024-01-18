@@ -28,10 +28,10 @@ git clone <repository_url>
 cd <repository_directory>
 ```
 
-2. Run the script:
+2. Open the Jupyter Notebook:
 
 ```bash
-python job_crawler.py
+jupyter notebook Job_Crawler.ipynb
 ```
 
 The script will fetch job listings based on the provided parameters and store the results in a CSV file named "JobList.csv".
