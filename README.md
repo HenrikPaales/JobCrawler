@@ -34,7 +34,7 @@ cd <repository_directory>
 jupyter notebook Job_Crawler.ipynb
 ```
 
-1. Execute the cells in the notebook.
+3. Execute the cells in the notebook.
 
 Alternatively, you can run the Jupyter Notebook directly in Google Colab by clicking the following link:
 
